@@ -2,7 +2,7 @@
 int main(void)
 {
 int wholeNumber, product;
-printf("Type a whole number: ");
+printf("Enter a whole number: ");
   scanf("%d",&wholeNumber); 
 product = wholeNumber * 7;  
 printf("This number multiplied by 7 is: %d\n", product);  
